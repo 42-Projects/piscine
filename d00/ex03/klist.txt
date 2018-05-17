@@ -1,0 +1,6 @@
+Credentials cache: API:34717
+        Principal: mlewis-l@42.US.ORG
+
+  Issued                Expires               Principal
+Mar 12 20:57:01 2018  Mar 13 06:56:30 2018  krbtgt/42.US.ORG@42.US.ORG
+Mar 12 20:57:03 2018  Mar 13 06:56:30 2018  ldap/ldap-proxy.42.us.org@42.US.ORG
